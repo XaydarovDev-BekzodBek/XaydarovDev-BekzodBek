@@ -1,5 +1,5 @@
 # xaydarov-bekzodbek
-[![Codewars Badge](https://www.codewars.com/users/azamjonbro/badges/large)](https://www.codewars.com/users/Takitok2011)
+[![Codewars Badge](https://www.codewars.com/users/Takitok2011/badges/large)](https://www.codewars.com/users/Takitok2011)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BekzodXaydarov&show_icons=true&theme=dark)
 
